@@ -63,3 +63,4 @@ plt.legend(['Regression Line','Data points'])
 
 # Results and Output : 
 ![](ex4.jpg)
+Thus we have analysed the given data using coeffificient of correlation and regression line successfully
